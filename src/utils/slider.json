@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Learning License(LLR)",
+    "price": "47,043",
+    "detail": "Learner license before they begin practising driving",
+    "image": "./r11.png"
+  },
+  {
+    "name": "Driving License",
+    "price": "66,353",
+    "detail": "When driving in a public space .They need to have their own license.",
+    "image": "./r22.jpg"
+  },
+  {
+    "name": "Vehicle Registration",
+    "price": "35,853",
+    "detail": "RTO before it receives the go ahead to be driven on road.",
+    "image": "./r33.jpg"
+  },
+  {
+    "name": "Address Modify",
+    "price": "47,043",
+    "detail": "If vehicle owners are changing their address.They have to make this change on the vehicle documents.",
+    "image": "./r4.jpg"
+  },
+  {
+    "name": "Driving License Renewal" ,
+    "price": "66,353",
+    "detail": "Driver's licenses have an expiration date and need to be renewed after the verification.",
+    "image": "./r5.jpg"
+  },
+  {
+    "name": "Vehicle Insurance",
+    "price": "35,853",
+    "detail": "Company which offers comprehensive motor/vehicle insurance policies for car,two wheeler and commercial vehicles.",
+    "image": "./r6.jpg"
+  }
+]
